@@ -1,12 +1,5 @@
-https://github.com/45years/Kick-Awesome.git
-
-echo "# Kick-Awesome" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/45years/Kick-Awesome.git
-git push -u origin master
-
-
-git remote add origin https://github.com/45years/Kick-Awesome.git
-git push -u origin master
+S Learn Java 
+M 1 hour a day
+A Mobile app 6 months
+R Learn more
+T Launch App
